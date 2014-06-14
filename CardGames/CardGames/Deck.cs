@@ -97,7 +97,7 @@ namespace CardGames
             var dealtCardPosition = RandomiseACard(amount);
             object playersCard = cards[dealtCardPosition];
             var hands = new Hand();
-           // hands.FaceValue =  ;
+            hands.FaceValue = playersCard.  ;
             RemoveDealtCard(cards, dealtCardPosition);
             Thread.Sleep(50);
             return playersCard;
