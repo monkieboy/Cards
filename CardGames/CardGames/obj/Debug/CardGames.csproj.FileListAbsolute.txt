@@ -1,1 +1,8 @@
 C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGames\bin\Debug\CardGames.exe.config
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGames\obj\Debug\CardGames.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGames\bin\Debug\CardGames.exe
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGames\bin\Debug\CardGames.pdb
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGames\obj\Debug\CardGames.exe
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGames\obj\Debug\CardGames.pdb
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGames\bin\Debug\nunit.framework.dll
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGames\bin\Debug\nunit.framework.xml

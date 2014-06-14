@@ -10,6 +10,14 @@ namespace CardGames
     {
         static void Main(string[] args)
         {
+            var deck = new Deck();
+
+            
+            var a = deck.Deal();
+            var b = deck.Deal();
+            Console.WriteLine(a);
+            Console.ReadLine();
+
         }
     }
 }

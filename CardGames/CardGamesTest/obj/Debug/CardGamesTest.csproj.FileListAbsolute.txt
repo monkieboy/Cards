@@ -1,0 +1,9 @@
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGamesTest\bin\Debug\CardGamesTest.dll
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGamesTest\bin\Debug\CardGamesTest.pdb
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGamesTest\bin\Debug\nunit.framework.dll
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGamesTest\bin\Debug\nunit.framework.xml
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGamesTest\obj\Debug\CardGamesTest.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGamesTest\obj\Debug\CardGamesTest.dll
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGamesTest\obj\Debug\CardGamesTest.pdb
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGamesTest\bin\Debug\CardGames.exe
+C:\Users\Matt\Documents\Dev\Cards\CardGames\CardGamesTest\bin\Debug\CardGames.pdb
